@@ -28,10 +28,10 @@ $(function () {
 
 
   
-  // TODO: Add code to display the current date in the header of the page.
-
+  
 
 });
 
+// TODO: Add code to display the current date in the header of the page.
 var date = dayjs().format("ddd, MMM D, YYYY h:mm A");
 $("#currentDay").text(date);
