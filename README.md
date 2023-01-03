@@ -7,7 +7,7 @@ This project had pre-existing code, our intent was to create a work day schedule
 
 ## Screenshots
 
-![App Screenshot](/assets/workdaypic.png)
+![Screenshot](./Assets/workdaypic.png)
 
 
 
